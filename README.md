@@ -1,16 +1,15 @@
-# ABC Deterjan Sanayi ve Ticaret Stajı Zaman Etüdü Çalışması
+# ABC Detergent Industry and Trade Internship Time Study
 
-Bu depo, ABC Deterjan Sanayi ve Ticaret'te gerçekleştirdiğim staj sırasında yapılan zaman etüdü çalışmasını içermektedir. Staj süresince, farklı ürün hatlarında üretilen ürünlerin üretim süreçlerini analiz etmek ve verimliliği artırmak amacıyla bir zaman etüdü çizelgesi oluşturdum.
+This warehouse includes the time study study carried out during my internship at ABC Deterjan Sanayi ve Ticaret. During my internship, I created a time study schedule to analyze the production processes of products produced in different product lines and increase efficiency.
 
-## Dosyalar
+## Folders
 
-- `Zaman_Etudu_Calisma.xlsx`: Excel dosyası, her bir ürün hattı için zaman etüdü verilerini içermektedir.
+- `Time_Study_Calisma.xlsx`: Excel file contains time study data for each product line.
 
-## Nasıl Kullanılır
+## How to use
 
-Excel dosyasını açarak, farklı ürün hatları için zaman etüdü verilerini inceleyebilir ve analiz edebilirsiniz.
+By opening the Excel file, you can review and analyze time study data for different product lines.
 
-## Daha Fazla Bilgi
+## More information
 
-Staj sürecinde yapılan çalışmalar ve analizler hakkında daha fazla bilgi için lütfen Excel dosyasını inceleyin.
-
+For more information about the studies and analyzes carried out during the internship, please review the Excel file.
